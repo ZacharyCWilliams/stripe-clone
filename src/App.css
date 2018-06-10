@@ -46,12 +46,6 @@
   overflow: hidden;
 }
 
-/* #sign-in-arrow:after {
-  font: normal 16px StripeIcons;
-  content: "\279E";
-  padding-left: 6px;
-} */
-
 .sign-in {
   color: white;
   display: inline;
