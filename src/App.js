@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Menu from './Menu.js'
+import Intro from './Intro.js'
 
 class App extends Component {
   render() {
@@ -8,9 +9,8 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <Menu />
+          <Intro />
         </header>
-        <p className="App-intro">
-        </p>
       </div>
     );
   }
