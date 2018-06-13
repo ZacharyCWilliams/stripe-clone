@@ -120,6 +120,8 @@
   color: white;
   font-family: Camphor,Open Sans,Segoe UI,sans-serif;
   text-align: left;
+  margin-bottom: 0px;
+  margin-top: 55px;
 }
 
 .intro-container {
@@ -138,6 +140,7 @@
   font-size: 17px;
   line-height: 28px;
   text-align: left;
+  font-family: Camphor,Open Sans,Segoe UI,sans-serif;
 }
 
 .announcement {
