@@ -75,6 +75,8 @@
 
 #Menu-Ul {
   list-style-type: none;
+  position: absolute;
+  padding-left: 215px;
 }
 
 .menu-item {
@@ -122,6 +124,7 @@
   text-align: left;
   margin-bottom: 0px;
   margin-top: 55px;
+  font-style: normal;
 }
 
 .intro-container {
@@ -130,6 +133,7 @@
   max-width: 1040px;
   padding: 24px 79px;
   position: absolute;
+  padding-top: 72px;
 }
 
 .intro-p {
@@ -164,7 +168,6 @@ a.announcement:after {
   bottom: 1px;
   width: 5px;
   height: 19.2px;
-
 }
 
 .new-sign {
