@@ -168,6 +168,7 @@ a.announcement:after {
   bottom: 1px;
   width: 5px;
   height: 19.2px;
+
 }
 
 .new-sign {
@@ -259,4 +260,23 @@ a.announcement:after {
   box-shadow: 0 7px 14px rgba(50,50,93,.1), 0 3px 6px rgba(0,0,0,.08);
   transition: all .15s ease;
   cursor: pointer;
+}
+
+/*
+logo
+*/
+
+#logo {
+  width: 63px;
+  height: 30px;
+  position: absolute;
+  fill: #fff;
+}
+
+#logo:hover {
+  fill: #8A92FF;
+}
+
+#products {
+  padding-left: 112px;
 }
